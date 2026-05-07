@@ -5,9 +5,9 @@ Description
 This project demonstrates a Bluetooth controlled RC car using ESP32.
 The car is controlled using the Dabble Gamepad mobile application.
 
-1. RC Car Pic
+**1. RC Car Pic**
    <img src="RC_Car.jpg">
-2. Circuit Connection
+**2. Circuit Connection**
    <img src="Circuit.png">
    
 Features
